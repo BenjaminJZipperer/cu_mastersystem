@@ -3,7 +3,15 @@ public object Master
 	var REFERENCE_CODE =" "
 
 	var REFERENCE_STATE = ""
+	var STATE1 = "default"
+	var STATE2 = "fail"	
+	switch(state)
+	{
+		case STATE1:	REFERENCE_STATE = "Normal"
+		ende case
 
-	
+		case STATE2:	REFERENCE_STATE = "Ausnahme" 
+		ende case
+	}
 
 }
