@@ -1,6 +1,9 @@
 public object Master
 {
+	var REFERENCE_CODE =" "
 
+	var REFERENCE_STATE = ""
 
+	
 
 }
