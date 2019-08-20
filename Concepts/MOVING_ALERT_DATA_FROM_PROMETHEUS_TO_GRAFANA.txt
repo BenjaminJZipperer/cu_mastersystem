@@ -1,0 +1,1 @@
+http://medium.com/@rdavix/how-to-export-alerts-from-prometheus-to-grafana-8f1de059a8c8
